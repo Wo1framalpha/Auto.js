@@ -6,8 +6,6 @@
 
 下载地址：[酷安](http://www.coolapk.com/apk/org.autojs.autojs)
 
-Alpha版本：[Releases](https://github.com/hyb1996/NoRootScriptDroid/releases)
-
 官方文档：https://hyb1996.github.io/AutoJs-Docs/
 
 ### 特性
